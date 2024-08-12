@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geraldosaidina
-- 👀 I’m interested in web development and data analysis/science
+- 👀 I’m interested in software development and data analysis/science
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on open source software development projects
 - 📫 How to reach me: gerarantes99@gmail.com
